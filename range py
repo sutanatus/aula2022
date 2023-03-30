@@ -1,0 +1,4 @@
+for j in range(5, 10):
+    print(j)
+for h in range(0, 20, 4):
+    print (h)
